@@ -1,5 +1,5 @@
 
-# Assembled a well AMXMODX Pack
+# Assembled a well AMXMODX Pack ![](https://img.shields.io/static/v1?label=&message=Sucukkkz&color=red) 
 
 I have assembled a well-functioning package to play with friends on any given evening. And I didn't want to withhold this from you - Whoever likes, please enjoy :)
 
