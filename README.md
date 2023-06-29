@@ -13,9 +13,9 @@ All plugins, as mentioned, are coordinated with each other. Also so that the scr
 | Plugin           | Status | File              | Version   | Language | Start | Chlvl | Never |
 |------------------|--------|-------------------|-----------|----------|-------|-------|-------|
 | AMX Mod X        | RUN    | amxmodx_mm.dll    | v1.10.2-  | ini      | Start | ANY   |       |
-| Semiclip         | RUN    | semiclip.dll      | v2.2      | ini      | ANY   | ANY   |       |
-| CS Bot Enabler   | RUN    | csbot_enabler_mm  | v1.0.1    | ini      | ANY   | ANY   |       |
-| RealBot          | RUN    | realbot_mm.dll    | v4.0.5-b  | ini      | Chlvl | ANY   |       |
+| ![](https://img.shields.io/static/v1?label=&message=Semiclip&color=green)         | RUN    | semiclip.dll      | `v2.2`      | ini      | ANY   | ANY   |       |
+| ![](https://img.shields.io/static/v1?label=&message=CS+Bot+Enabler&color=green)   | RUN    | csbot_enabler_mm  | `v1.0.1`    | ini      | ANY   | ANY   |       |
+| ![](https://img.shields.io/static/v1?label=&message=RealBot&color=green)          | RUN    | realbot_mm.dll    | `v4.0.5-b`  | ini      | Chlvl | ANY   |       |
 | FakeMeta         | RUN    | fakemeta_amxx.dl  | v1.10.2-  | pl1      | ANY   | ANY   |       |
 | CStrike          | RUN    | cstrike_amxx.dll  | v1.10.2-  | pl1      | ANY   | ANY   |       |
 | CSX              | RUN    | csx_amxx.dll      | v1.10.2-  | pl1      | ANY   | ANY   |       |
