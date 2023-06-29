@@ -3,9 +3,11 @@
 
 I have assembled a well-functioning package to play with friends on any given evening. And I didn't want to withhold this from you - Whoever likes, please enjoy :)
 
-It was important to me to establish a coordinated system. For this, pre-configurations were made and some plugins had to be adjusted. I won't delve into the individual changes here, but will outline what has been incorporated into this package - a complete list can be found below.
+It was important to me to establish a coordinated system. For this, pre-configurations were made and some plugins had to be adjusted. I won't delve into the individual changes here, but will outline what has been incorporated into this package - a complete list can be found below. 
 
 All plugins, as mentioned, are coordinated with each other. Also so that the screen or sounds do not overlap.
+
+> ![](https://img.shields.io/static/v1?label=&message=ADDED+PLUGINS&color=green)
 
 #### METAMOD PLUGINS
 | Plugin           | Status | File              | Version   | Language | Start | Chlvl | Never |
@@ -20,8 +22,8 @@ All plugins, as mentioned, are coordinated with each other. Also so that the scr
 | Ham Sandwich     | RUN    | hamsandwich_amxx  | v1.10.2-  | pl1      | ANY   | ANY   |       |
 | MySQL            | RUN    | mysql_amxx.dll    | v1.10.0.  | pl1      | ANY   | ANY   |       |
 | Engine           | RUN    | engine_amxx.dll   | v1.10.2-  | pl1      | ANY   | ANY   |       |
-| ReAPI            | RUN    | reapi_amxx.dll    | v5.22.0.  | pl1      | ANY   |       | Never |
-| CSDM2            | RUN    | csdm_amxx.dll     | v2.1.3c-  | pl1      | ANY   | ANY   |       |
+| ![](https://img.shields.io/static/v1?label=&message=ReAPI&color=green)            | RUN    | reapi_amxx.dll    | v5.22.0.  | pl1      | ANY   |       | Never |
+| ![](https://img.shields.io/static/v1?label=&message=CSDM2&color=green)            | RUN    | csdm_amxx.dll     | v2.1.3c-  | pl1      | ANY   | ANY   |       |
 
 #### AMXMODX MODULES
 | Plugin          | Version     | Author                | Status   |
@@ -32,8 +34,8 @@ All plugins, as mentioned, are coordinated with each other. Also so that the scr
 | Ham Sandwich    | 1.10.2-APG  | AMX Mod X Dev Team    | running  |
 | MySQL           | 1.10.0.546  | AMX Mod X Dev Team    | running  |
 | Engine          | 1.10.2-APG  | AMX Mod X Dev Team    | running  |
-| ReAPI           | 5.22.0.254  | Asmodai & s1lent      | running  |
-| CSDM2           | 2.1.3c-KWo  | CSDM Team             | running  |
+| ![](https://img.shields.io/static/v1?label=&message=ReAPI&color=green)           | 5.22.0.254  | Asmodai & s1lent      | running  |
+| ![](https://img.shields.io/static/v1?label=&message=CSDM2&color=green)           | 2.1.3c-KWo  | CSDM Team             | running  |
 
 #### AMXMODX PLUGINS
 | Plugin              | Version    | Author           | File             | Status   |
@@ -59,10 +61,10 @@ All plugins, as mentioned, are coordinated with each other. Also so that the scr
 | Pause Plugins       | 1.10.0-APG | AMXX Dev Team    | pausecfg.amxx    | running  |
 | Stats Configuration | 1.10.0-APG | AMXX Dev Team    | statscfg.amxx    | running  |
 | StatsX              | 1.10.0-APG | AMXX Dev Team    | statsx.amxx      | running  |
-| ADV. QUAKE SOUNDS   | 6.6        | HATTRICK (HTTRCK | AQS.amxx         | running  |
-| Ultimate Gore       | 1.6.1      | JTP10181         | amx_gore_ultima  | running  |
-| Nade Semiclip       | 2.7        | JustGo           | nade_semiclip.a  | running  |
-| GunGame AMXX        | 2.13c      | Avalanche        | gungame.amxx     | running  |
+| ![](https://img.shields.io/static/v1?label=&message=ADV.+QUAKE+SOUNDS&color=green)   | 6.6        | HATTRICK (HTTRCK | AQS.amxx         | running  |
+| ![](https://img.shields.io/static/v1?label=&message=Ultimate+Gore&color=green)       | 1.6.1      | JTP10181         | amx_gore_ultima  | running  |
+| ![](https://img.shields.io/static/v1?label=&message=Nade+Semiclip&color=green)       | 2.7        | JustGo           | nade_semiclip.a  | running  |
+| ![](https://img.shields.io/static/v1?label=&message=GunGame+AMXX&color=green)        | 2.13c      | Avalanche        | gungame.amxx     | running  |
 | CSDM Main           | 2.1.3d     | CSDM Team        | csdm_main.amxx   | running  |
 | CSDM Equip          | 2.1.3d     | CSDM Team        | csdm_equip.amxx  | running  |
 | CSDM Spawns         | 2.1.3d     | CSDM Team        | csdm_spawn_pres  | running  |
