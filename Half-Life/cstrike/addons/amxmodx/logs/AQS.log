@@ -1,0 +1,121 @@
+L 06/28/2023 - 16:53:11: Log file started (file "cstrike\addons\amxmodx\logs\AQS.log") (game "cstrike") (amx "1.10.2-APG")
+L 06/28/2023 - 16:53:11: ****************************************************************************************************************
+L 06/28/2023 - 16:53:11: Sql Database Connection Failed.
+L 06/28/2023 - 16:53:11: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/28/2023 - 16:53:11: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/28/2023 - 16:56:39: ****************************************************************************************************************
+L 06/28/2023 - 16:56:39: Sql Database Connection Failed.
+L 06/28/2023 - 16:56:39: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/28/2023 - 16:56:39: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/28/2023 - 17:02:27: ****************************************************************************************************************
+L 06/28/2023 - 17:02:27: Sql Database Connection Failed.
+L 06/28/2023 - 17:02:27: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/28/2023 - 17:02:27: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/28/2023 - 17:11:59: ****************************************************************************************************************
+L 06/28/2023 - 17:11:59: Sql Database Connection Failed.
+L 06/28/2023 - 17:11:59: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/28/2023 - 17:11:59: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/28/2023 - 17:51:17: ****************************************************************************************************************
+L 06/28/2023 - 17:51:17: Sql Database Connection Failed.
+L 06/28/2023 - 17:51:17: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/28/2023 - 17:51:17: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/28/2023 - 18:33:03: ****************************************************************************************************************
+L 06/28/2023 - 18:33:03: Sql Database Connection Failed.
+L 06/28/2023 - 18:33:03: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/28/2023 - 18:33:03: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/28/2023 - 18:38:02: ****************************************************************************************************************
+L 06/28/2023 - 18:38:02: Sql Database Connection Failed.
+L 06/28/2023 - 18:38:02: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/28/2023 - 18:38:02: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 08:15:44: ****************************************************************************************************************
+L 06/29/2023 - 08:15:44: Sql Database Connection Failed.
+L 06/29/2023 - 08:15:44: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 08:15:44: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 08:17:02: ****************************************************************************************************************
+L 06/29/2023 - 08:17:02: Sql Database Connection Failed.
+L 06/29/2023 - 08:17:02: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 08:17:02: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 08:17:56: ****************************************************************************************************************
+L 06/29/2023 - 08:17:56: Sql Database Connection Failed.
+L 06/29/2023 - 08:17:56: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 08:17:56: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 08:54:11: ****************************************************************************************************************
+L 06/29/2023 - 08:54:11: Sql Database Connection Failed.
+L 06/29/2023 - 08:54:11: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 08:54:11: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 08:54:56: ****************************************************************************************************************
+L 06/29/2023 - 08:54:56: Sql Database Connection Failed.
+L 06/29/2023 - 08:54:56: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 08:54:56: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 09:09:40: ****************************************************************************************************************
+L 06/29/2023 - 09:09:40: Sql Database Connection Failed.
+L 06/29/2023 - 09:09:40: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 09:09:40: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 09:11:37: ****************************************************************************************************************
+L 06/29/2023 - 09:11:37: Sql Database Connection Failed.
+L 06/29/2023 - 09:11:37: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 09:11:37: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 10:37:44: ****************************************************************************************************************
+L 06/29/2023 - 10:37:44: Sql Database Connection Failed.
+L 06/29/2023 - 10:37:44: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 10:37:44: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 10:39:34: ****************************************************************************************************************
+L 06/29/2023 - 10:39:34: Sql Database Connection Failed.
+L 06/29/2023 - 10:39:34: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 10:39:34: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 10:42:05: ****************************************************************************************************************
+L 06/29/2023 - 10:42:05: Sql Database Connection Failed.
+L 06/29/2023 - 10:42:05: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 10:42:05: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 10:42:13: ****************************************************************************************************************
+L 06/29/2023 - 10:42:13: Sql Database Connection Failed.
+L 06/29/2023 - 10:42:13: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 10:42:13: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 10:46:35: ****************************************************************************************************************
+L 06/29/2023 - 10:46:35: Sql Database Connection Failed.
+L 06/29/2023 - 10:46:35: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 10:46:35: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 10:51:22: ****************************************************************************************************************
+L 06/29/2023 - 10:51:22: Sql Database Connection Failed.
+L 06/29/2023 - 10:51:22: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 10:51:22: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 10:52:48: ****************************************************************************************************************
+L 06/29/2023 - 10:52:48: Sql Database Connection Failed.
+L 06/29/2023 - 10:52:48: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 10:52:48: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 10:58:50: ****************************************************************************************************************
+L 06/29/2023 - 10:58:50: Sql Database Connection Failed.
+L 06/29/2023 - 10:58:50: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 10:58:50: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 11:00:54: ****************************************************************************************************************
+L 06/29/2023 - 11:00:54: Sql Database Connection Failed.
+L 06/29/2023 - 11:00:54: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 11:00:54: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 11:11:48: ****************************************************************************************************************
+L 06/29/2023 - 11:11:48: Sql Database Connection Failed.
+L 06/29/2023 - 11:11:48: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 11:11:48: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 11:13:10: ****************************************************************************************************************
+L 06/29/2023 - 11:13:10: Sql Database Connection Failed.
+L 06/29/2023 - 11:13:10: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 11:13:10: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 12:25:01: ****************************************************************************************************************
+L 06/29/2023 - 12:25:01: Sql Database Connection Failed.
+L 06/29/2023 - 12:25:01: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 12:25:01: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 12:50:17: ****************************************************************************************************************
+L 06/29/2023 - 12:50:17: Sql Database Connection Failed.
+L 06/29/2023 - 12:50:17: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 12:50:17: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 13:00:43: ****************************************************************************************************************
+L 06/29/2023 - 13:00:43: Sql Database Connection Failed.
+L 06/29/2023 - 13:00:43: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 13:00:43: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 13:22:29: ****************************************************************************************************************
+L 06/29/2023 - 13:22:29: Sql Database Connection Failed.
+L 06/29/2023 - 13:22:29: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 13:22:29: Per Steam Player Preferences Will Not Be Stored In Any Database.
+L 06/29/2023 - 13:22:54: ****************************************************************************************************************
+L 06/29/2023 - 13:22:54: Sql Database Connection Failed.
+L 06/29/2023 - 13:22:54: The Following Call Failed [ SQL_SetAffinity ( 'sqlite' ) ].
+L 06/29/2023 - 13:22:54: Per Steam Player Preferences Will Not Be Stored In Any Database.

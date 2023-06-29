@@ -1,0 +1,116 @@
+L 06/29/2023 - 08:15:41: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 08:15:44: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 08:15:46: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 08:17:02: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 08:17:02: [admin.amxx] Login: "Pr!maX<3><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 08:17:03: [admin.amxx] Login: "Pr!maX<3><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 08:17:55: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 08:17:56: [admin.amxx] Login: "Pr!maX<6><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 08:17:57: [admin.amxx] Login: "Pr!maX<6><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 08:54:10: -------- Mapchange to de_dust2 --------
+L 06/29/2023 - 08:54:12: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 08:54:12: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 08:54:56: -------- Mapchange to de_dust2 --------
+L 06/29/2023 - 08:54:56: [admin.amxx] Login: "Pr!maX<3><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 08:54:57: [admin.amxx] Login: "Pr!maX<3><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 09:09:39: -------- Mapchange to de_dust2 --------
+L 06/29/2023 - 09:09:39: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 09:09:40: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 09:09:41: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 09:11:36: -------- Mapchange to de_dust2 --------
+L 06/29/2023 - 09:11:36: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 09:11:37: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 09:11:38: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:37:43: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 10:37:43: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 10:37:44: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 10:37:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 10:37:47: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:37:48: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:39:34: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 10:39:34: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 10:39:34: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 10:39:34: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 10:39:35: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:39:35: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:42:04: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 10:42:04: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 10:42:05: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 10:42:05: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 10:42:05: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:42:05: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:42:13: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 10:42:13: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 10:42:13: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 10:42:13: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 10:42:13: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:42:14: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:46:34: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 10:46:34: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 10:46:35: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 10:46:35: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 10:46:35: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:46:36: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:51:21: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 10:51:21: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 10:51:22: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 10:51:22: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 10:51:23: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:51:23: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:52:48: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 10:52:48: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 10:52:48: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 10:52:48: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 10:52:49: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:52:49: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:58:49: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 10:58:49: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 10:58:50: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 10:58:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 10:58:50: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 10:58:51: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 11:00:54: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 11:00:54: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 11:00:54: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 11:00:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 11:00:54: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 11:00:55: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 11:11:47: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 11:11:47: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 11:11:48: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 11:11:48: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 11:11:48: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 11:11:49: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 11:13:09: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 11:13:09: [AMXX] Plugin "scm_entity_editor.amxx" failed to load: Plugin uses an unknown function (name "scm_load_ini_file") - check your modules.ini.
+L 06/29/2023 - 11:13:10: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 11:13:10: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 11:13:10: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 11:13:11: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 12:25:00: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 12:25:01: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 12:25:01: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 12:25:05: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 12:25:06: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 12:50:16: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 12:50:16: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 12:50:16: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 12:50:17: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 12:50:18: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 13:00:42: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 13:00:43: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 13:00:43: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 13:00:43: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 13:00:44: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 13:22:29: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 13:22:29: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 13:22:29: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 13:22:29: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 13:22:30: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 13:22:53: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 13:22:54: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 13:22:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 13:22:54: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 13:22:54: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 13:25:47: [gungame.amxx] INVALID WEAPON ID FOR "g552"
+L 06/29/2023 - 13:26:01: [gungame.amxx] INVALID WEAPON ID FOR "g552"
