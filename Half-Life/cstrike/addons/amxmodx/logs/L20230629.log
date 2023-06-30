@@ -114,3 +114,13 @@ L 06/29/2023 - 13:22:54: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became 
 L 06/29/2023 - 13:22:54: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
 L 06/29/2023 - 13:25:47: [gungame.amxx] INVALID WEAPON ID FOR "g552"
 L 06/29/2023 - 13:26:01: [gungame.amxx] INVALID WEAPON ID FOR "g552"
+L 06/29/2023 - 20:32:43: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 20:32:44: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 20:32:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 20:32:48: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 20:32:49: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 20:39:54: -------- Mapchange to aim_ak-colt --------
+L 06/29/2023 - 20:39:55: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\aim_ak-colt.spawns.cfg)
+L 06/29/2023 - 20:39:55: [csdm_main.amxx] CSDM spawn mode set to preset
+L 06/29/2023 - 20:39:56: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 06/29/2023 - 20:39:56: [admin.amxx] Login: "Pr!maX<1><STEAM_ID_LAN><>" became an admin (account "STEAM_ID_LAN") (access "abcdefghijklmnopqrstuv") (address "loopback")
