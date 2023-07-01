@@ -84,7 +84,32 @@ The installation is extremely simple and no files like config.cfg or similar wil
 
 Copy everything from the `Half-Life` folder into your `Half-Life` folder. You should find it at `SteamLibrary\steamapps\common\Half-Life`. If you already have AMXMODX running, you will need to overwrite the files.
 
-#### > Commandmenu
+### ![](https://img.shields.io/static/v1?label=&message=>+liblist.gam&color=blue) (`SteamLibrary\steamapps\common\Half-Life\cstrike`)
+Damit die Modifikation ausgeführt werden kann, muss die `liblist.gam`entsprechend bearbeitet werden.
+
+##### Search:
+```
+gamedll "dlls\mp.dll"
+gamedll_linux "dlls/cs.so"
+```
+##### Replace:
+```
+//gamedll "dlls\mp.dll"
+//gamedll_linux "dlls/cs.so"
+gamedll "addons/metamod/dlls/metamod.dll" 
+gamedll_linux "addons/metamod/dlls/metamod_i386.so" 
+```
+##### Done
+
+### ![](https://img.shields.io/static/v1?label=&message=>+commandmenu.txt&color=blue)
 If you want to use the provided command menu here, you just need to download the `commandmenu.txt` file and copy it into your `cstrike` and, if applicable, `cstrike_LANGUAGE` (LANGUAGE = Your language, for example: `cstrike_german`) and `cstrike_hd` folders.
+
+## What works?
+This mod pack can be easily played on a Windows **LAN server** or **Windows dedicated server** using `hlds.exe`.
+
+_A Linux environment has not been tested so far!_
+
+## Bugs
+> ![](https://img.shields.io/static/v1?label=&message=>+Realbot&color=red) The Realbot in Deathmatch mode (`csdm_enable`) starts committing suicide on its own. The other bots do not cause any trouble.
 
 # You're now done. Have fun.
