@@ -99,6 +99,7 @@ gamedll_linux "dlls/cs.so"
 gamedll "addons/metamod/dlls/metamod.dll" 
 gamedll_linux "addons/metamod/dlls/metamod_i386.so" 
 ```
+> An example file can be found here in the package
 ##### Done
 
 ### ![](https://img.shields.io/static/v1?label=&message=>+commandmenu.txt&color=blue)
@@ -110,6 +111,6 @@ This mod pack can be easily played on a Windows **LAN server** or **Windows dedi
 _A Linux environment has not been tested so far!_
 
 ## Bugs
-> ![](https://img.shields.io/static/v1?label=&message=>+Realbot&color=red) The Realbot in Deathmatch mode (`csdm_enable`) starts committing suicide on its own. The other bots do not cause any trouble.
+![](https://img.shields.io/static/v1?label=&message=>+Realbot&color=red) The Realbot in Deathmatch mode (`csdm_enable`) starts committing suicide on its own. The other bots do not cause any trouble.
 
 # You're now done. Have fun.
