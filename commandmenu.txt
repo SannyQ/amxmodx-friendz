@@ -1,4 +1,4 @@
-"1" "ADD/REMOVE BOTS"
+f"1" "ADD/REMOVE BOTS"
 {
 	"1" "CTs ZBot"
 	{
@@ -111,7 +111,7 @@
 	"5" "Kill All" "bot_kill; realbot killall"
 	"6" "Kick All" "bot_kick; realbot remove 99"
 }
-"2" "Plugins"
+"2" "^ Plugins"
 {
 	"1" "Deathmatch"
 	{
@@ -132,6 +132,154 @@
 			"1" "On" "bot_deathmatch 1; gg_dm 1"
 			"2" "Off" "bot_deathmatch 0; gg_dm 0"
 		}
+	}
+	"2" "Headshot Mode"
+	{
+		"1" "On" "hh_mode 1"
+		"2" "Off" "hh_mode 0"
+		"3" "No Headshot" "hh_mode 2"
+	}
+}
+"2" "ADD/REMOVE BOTS Server"
+{
+	"1" "CTs ZBot"
+	{
+		"1" "  Easy  " "rcon bot_difficulty 0; bot_add_ct"
+		"2" "^ Add more"
+		{
+			"1" "5x" "rcon bot_difficulty 0; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct"
+			"2" "10x" "rcon bot_difficulty 0; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct"
+		}
+		"3" "  Normal  " "rcon bot_difficulty 1; bot_add_ct"
+		"4" "^ Add more"
+		{
+			"1" "5x" "rcon bot_difficulty 1; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct"
+			"2" "10x" "rcon bot_difficulty 1; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct"
+		}
+		"5" "  Hard  " "rcon bot_difficulty 2; bot_add_ct"
+		"6" "^ Add more"
+		{
+			"1" "5x" "rcon bot_difficulty 2; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct"
+			"2" "10x" "rcon bot_difficulty 2; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct"
+		}
+		"7" "  Expert  " "rcon bot_difficulty 3; bot_add_ct"
+		"8" "^ Add more"
+		{
+			"1" "5x" "rcon bot_difficulty 3; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct"
+			"2" "10x" "rcon bot_difficulty 3; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct; bot_add_ct"
+		}
+	}
+	"2" "CTs Realbot"
+	{
+		"1" "  Easy  " "rcon realbot add 2 10"
+		"2" "^ Add more"
+		{
+			"1" "5x" "rcon realbot add 2 10; realbot add 2 10; realbot add 2 10; realbot add 2 10; realbot add 2 10"
+			"2" "10x" "rcon realbot add 2 10; realbot add 2 10; realbot add 2 10; realbot add 2 10; realbot add 2 10; realbot add 2 10; realbot add 2 10; realbot add 2 10; realbot add 2 10; realbot add 2 10"
+		}
+		"3" "  Normal  " "rcon realbot add 2 5"
+		"4" "^ Add more"
+		{
+			"1" "5x" "rcon realbot add 2 5; realbot add 2 5; realbot add 2 5; realbot add 2 5; realbot add 2 5"
+			"2" "10x" "rcon realbot add 2 5; realbot add 2 5; realbot add 2 5; realbot add 2 5; realbot add 2 5; realbot add 2 5; realbot add 2 5; realbot add 2 5; realbot add 2 5; realbot add 2 5"
+		}
+		"5" "  Hard  " "rcon realbot add 2 2"
+		"6" "^ Add more"
+		{
+			"1" "5x" "rcon realbot add 2 2; realbot add 2 2; realbot add 2 2; realbot add 2 2; realbot add 2 2"
+			"2" "10x" "rcon realbot add 2 2; realbot add 2 2; realbot add 2 2; realbot add 2 2; realbot add 2 2; realbot add 2 2; realbot add 2 2; realbot add 2 2; realbot add 2 2; realbot add 2 2"
+		}
+		"7" "  Expert  " "rcon realbot add 2 0"
+		"8" "^ Add more"
+		{
+			"1" "5x" "rcon realbot add 2 0; realbot add 2 0; realbot add 2 0; realbot add 2 0; realbot add 2 0"
+			"2" "10x" "rcon realbot add 2 0; realbot add 2 0; realbot add 2 0; realbot add 2 0; realbot add 2 0; realbot add 2 0; realbot add 2 0; realbot add 2 0; realbot add 2 0; realbot add 2 0"
+		}
+	}
+	"3" "Ts ZBot"
+	{
+		"1" "  Easy  " "rcon bot_difficulty 0; bot_add_t"
+		"2" "^ Add more"
+		{
+			"1" "5x" "rcon bot_difficulty 0; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t"
+			"2" "10x" "rcon bot_difficulty 0; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t"
+		}
+		"3" "  Normal  " "rcon bot_difficulty 1; bot_add_t"
+		"4" "^ Add more"
+		{
+			"1" "5x" "rcon bot_difficulty 1; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t"
+			"2" "10x" "rcon bot_difficulty 1; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t"
+		}
+		"5" "  Hard  " "rcon bot_difficulty 2; bot_add_t"
+		"6" "^ Add more"
+		{
+			"1" "5x" "rcon bot_difficulty 2; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t"
+			"2" "10x" "rcon bot_difficulty 2; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t"
+		}
+		"7" "  Expert  " "rcon bot_difficulty 3; bot_add_t"
+		"8" "^ Add more"
+		{
+			"1" "5x" "rcon bot_difficulty 3; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t"
+			"2" "10x" "rcon bot_difficulty 3; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t; bot_add_t"
+		}
+	}
+	"4" "Ts Realbot"
+	{
+		"1" "  Easy  " "rcon realbot add 1 10"
+		"2" "^ Add more"
+		{
+			"1" "5x" "rcon realbot add 1 10; realbot add 1 10; realbot add 1 10; realbot add 1 10; realbot add 1 10"
+			"2" "10x" "rcon realbot add 1 10; realbot add 1 10; realbot add 1 10; realbot add 1 10; realbot add 1 10; realbot add 1 10; realbot add 1 10; realbot add 1 10; realbot add 1 10; realbot add 1 10"
+		}
+		"3" "  Normal  " "rcon realbot add 1 5"
+		"4" "^ Add more"
+		{
+			"1" "5x" "rcon realbot add 1 5; realbot add 1 5; realbot add 1 5; realbot add 1 5; realbot add 1 5"
+			"2" "10x" "rcon realbot add 1 5; realbot add 1 5; realbot add 1 5; realbot add 1 5; realbot add 1 5; realbot add 1 5; realbot add 1 5; realbot add 1 5; realbot add 1 5; realbot add 1 5"
+		}
+		"5" "  Hard  " "rcon realbot add 1 2"
+		"6" "^ Add more"
+		{
+			"1" "5x" "rcon realbot add 1 2; realbot add 1 2; realbot add 1 2; realbot add 1 2; realbot add 1 2"
+			"2" "10x" "rcon realbot add 1 2; realbot add 1 2; realbot add 1 2; realbot add 1 2; realbot add 1 2; realbot add 1 2; realbot add 1 2; realbot add 1 2; realbot add 1 2; realbot add 1 2"
+		}
+		"7" "  Expert  " "rcon realbot add 1 0"
+		"8" "^ Add more"
+		{
+			"1" "5x" "rcon realbot add 1 0; realbot add 1 0; realbot add 1 0; realbot add 1 0; realbot add 1 0"
+			"2" "10x" "rcon realbot add 1 0; realbot add 1 0; realbot add 1 0; realbot add 1 0; realbot add 1 0; realbot add 1 0; realbot add 1 0; realbot add 1 0; realbot add 1 0; realbot add 1 0"
+		}
+	}
+	"5" "Kill All" "rcon bot_kill; realbot killall"
+	"6" "Kick All" "rcon bot_kick; realbot remove 99"
+}
+"2" "^ Plugins Server"
+{
+	"1" "Deathmatch"
+	{
+		"1" " On " "rcon bot_deathmatch 1; csdm_enable"
+		"2" " Off " "rcon bot_deathmatch 0; csdm_disable"
+		"3" "Free for all"
+		{
+			"1" "On" "rcon csdm_ffa_enable"
+			"2" "Off" "rcon csdm_ffa_disable"
+		}
+	}
+	"2" "Gungame"
+	{
+		"1" "On" "rcon gg_enabled 1; amx_gungame 1"
+		"2" "Off" "rcon gg_enabled 0; amx_gungame 0"
+		"3" "Deathmatch"
+		{
+			"1" "On" "rcon bot_deathmatch 1; gg_dm 1"
+			"2" "Off" "rcon bot_deathmatch 0; gg_dm 0"
+		}
+	}
+	"2" "Headshot Mode"
+	{
+		"1" "On" "rcon hh_mode 1"
+		"2" "Off" "rcon hh_mode 0"
+		"3" "No Headshot" "rcon hh_mode 2"
 	}
 }
 "0" "EXIT" "slot10"

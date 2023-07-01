@@ -72,6 +72,7 @@ All plugins, as mentioned, are coordinated with each other. Also so that the scr
 | CSDM Stripper       | 2.1.3d     | KWo              | csdm_stripper.a  | running  |
 | CSDM Protection     | 2.1.3d     | BAILOPAN         | csdm_protection  | running  |
 | ![](https://img.shields.io/static/v1?label=&message=Advanced+Kill+Assist&color=green)   | `1.3d`       | Xelson           | next21_kill_ass  | running  |
+| ![](https://img.shields.io/static/v1?label=&message=Headhunter&color=green) | `1.1` | hellmonja | headhunter.amxx | running |
 
 ### COMMANDMENU (CZ-BOT, REALBOT, PLUGINS)
 The command menu is designed to control the bots. This includes adding a specific number of bots and selecting their difficulty level. Additionally, it allows for the management of the Deathmatch and Gungame plugins. For Gungame, there is an option to enable the Deathmatch mode (`gg_dm 0|1`). Both ZBot and Realbot are supported in this menu.
